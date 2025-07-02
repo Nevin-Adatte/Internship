@@ -28,9 +28,8 @@ ADK/
   10-sequential-agent/     # Sequential pipeline agent
   11-parallel-agent/       # Parallel agent for system monitoring
   12-loop-agent/           # Loop agent for iterative refinement
-  business_research_agent/ # Business research pipeline
+  business_research_agent/ # Profile searcher
   project/                 # Research pipeline example
-  test/                    # Test agents (e.g., profile searcher)
   requirements.txt         # Python dependencies
 ```
 
@@ -80,9 +79,6 @@ ADK/
 ### Project/Research Agent
 - **Research Pipeline**: Gathers and reports on a person using Google and LinkedIn.
 
-### Test Agents
-- **Profile Searcher**: Searches for LinkedIn profiles and summaries from CSV data.
-
 ---
 
 ## Setup & Installation
@@ -124,4 +120,4 @@ Contributions are welcome! Please open issues or pull requests for improvements,
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](../LICENSE) for details. 
+This project is licensed under the MIT License. See [LICENSE]([../LICENSE](https://github.com/bhancockio/agent-development-kit-crash-course/tree/main)) for details. 
